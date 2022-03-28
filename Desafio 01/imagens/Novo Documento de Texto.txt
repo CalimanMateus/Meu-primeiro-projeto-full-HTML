@@ -1,0 +1,10 @@
+<div clas="img-sidebar">
+            <img class="img-sidebar" src="imagens/mateus.png" alt="Essse sou eu">
+        </div>
+
+
+.img-sidebar {
+
+    width: 15%;
+    border-radius: 80%;
+}
